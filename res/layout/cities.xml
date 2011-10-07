@@ -1,0 +1,11 @@
+<LinearLayout
+	android:id="@+id/citybuttons"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical">
+    <Button android:id="@+id/button0" android:text="Buenos Aires"
+    	android:layout_height="wrap_content" android:layout_width="fill_parent" android:layout_gravity="center_horizontal" android:layout_marginTop="100dip"></Button>
+    <Button android:id="@+id/button1" android:text="La Plata" 
+    	android:layout_height="wrap_content" android:layout_gravity="center_horizontal" android:layout_width="fill_parent"></Button>
+</LinearLayout>

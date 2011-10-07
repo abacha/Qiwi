@@ -1,0 +1,1261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Ubicaciones La Plata</name>
+  <description><![CDATA[Terminales Instaladas y operando.
+Verdes:   Facultades
+Coloradas c/punto: Chinos
+Azules:  Kioscos - Polirrubros
+Amarillos: Farmacias
+Violeta:  Autoservicios
+Pinche colorado: Celulares
+Pinche amarillo:  Locutorio
+Pinche Verde: Loterías
+Amarillo con punto:  Hospital]]></description>
+  <Style id="style49">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style44">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/red-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/red-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style47">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style77">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style54">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style81">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style38">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style40">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style29">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style64">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/red-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style75">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style63">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/pink-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style60">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style56">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style76">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style53">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style50">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/pink-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style74">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style68">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style36">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style69">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style45">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style71">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style70">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/yellow-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style62">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style82">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style34">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style72">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style61">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style33">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style66">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style28">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style32">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style57">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style35">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style46">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style79">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style26">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style41">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/pink-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style73">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style48">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/pink-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style59">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style51">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style27">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style58">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style43">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style37">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/grn-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style80">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style78">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style39">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/grn-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style42">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/grn-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/yellow-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style67">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/red-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style55">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style65">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/yellow-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style30">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/grn-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style31">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style52">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/es_ALL/mapfiles/ms/micons/pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style83">
+    <IconStyle>
+      <Icon>
+        <href></href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Calle 50  esq. 120</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 155   <br>Facultad Informática</div>]]></description>
+    <styleUrl>#style49</styleUrl>
+    <Point>
+      <coordinates>-57.937840,-34.903934,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Av. 7 N 923</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 157<br>365 Full</div>]]></description>
+    <styleUrl>#style44</styleUrl>
+    <Point>
+      <coordinates>-57.949501,-34.915161,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 50 N 636</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº156<br>365 Full<br><br></div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-57.950478,-34.915619,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 50 N 690</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº  150<br>Send +</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-57.951271,-34.916340,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 9 N 900</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 152<br>365 Full</div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>-57.951775,-34.916656,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Diag. 74 N 1365 1/2</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 154<br>Kiosco</div>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>-57.954899,-34.913700,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Av. 7 N 701</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 158<br>365 Full</div>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>-57.953075,-34.912487,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 6 N 868</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº  153<br>Send +</div>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>-57.949039,-34.913651,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 12 N 1228</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 148<br>Kiosco</div>]]></description>
+    <styleUrl>#style47</styleUrl>
+    <Point>
+      <coordinates>-57.949383,-34.923679,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Diag. 80 N 640</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 161<br>Kiosco Verde</div>]]></description>
+    <styleUrl>#style77</styleUrl>
+    <Point>
+      <coordinates>-57.949127,-34.905605,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 42 Nº 440</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 164<br>365 Full</div>]]></description>
+    <styleUrl>#style54</styleUrl>
+    <Point>
+      <coordinates>-57.954018,-34.905819,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 8  N 1214</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 163<br>Drugstore 7<br></div>]]></description>
+    <styleUrl>#style81</styleUrl>
+    <Point>
+      <coordinates>-57.945415,-34.919964,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Av. 7 N 793</name>
+    <description><![CDATA[<div dir="ltr">Terminal 191 Open 25 hs.</div>]]></description>
+    <styleUrl>#style38</styleUrl>
+    <Point>
+      <coordinates>-57.951550,-34.913597,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 48 N 653</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 195<br>Open 25 hs.</div>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>-57.952312,-34.914803,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Av. 44 N 845</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 165 <br>Kiosco Pza. Paso</div>]]></description>
+    <styleUrl>#style40</styleUrl>
+    <Point>
+      <coordinates>-57.960487,-34.915573,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 13 N 20</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 197   Chino</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-57.974724,-34.906452,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 45 N 748</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 199  <br>Kiosco </div>]]></description>
+    <styleUrl>#style29</styleUrl>
+    <Point>
+      <coordinates>-57.956669,-34.913963,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 51 Nº 1052</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 198  - Autoservicio<br></div>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>-57.958202,-34.924084,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 12 N 1468</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 196 -  Send +</div>]]></description>
+    <styleUrl>#style64</styleUrl>
+    <Point>
+      <coordinates>-57.944084,-34.927601,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 3 N 327</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 206 - Super Chino </div>]]></description>
+    <styleUrl>#style75</styleUrl>
+    <Point>
+      <coordinates>-57.957367,-34.902264,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 67  N 425</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 207 -  Super Chino</div>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>-57.929985,-34.923660,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 66 N 1320</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 290 - Super Chino</div>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>-57.949642,-34.939598,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Diag. 73 N 740</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 208 - Autoservicio </div>]]></description>
+    <styleUrl>#style63</styleUrl>
+    <Point>
+      <coordinates>-57.931808,-34.920448,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 70 N 1599</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 287 - Kiosco Panadería</div>]]></description>
+    <styleUrl>#style60</styleUrl>
+    <Point>
+      <coordinates>-57.950691,-34.948013,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Av. 25 N 2788</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 288 - Supermercado Chino</div>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>-58.019527,-34.893448,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 137 N 903</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 289 - Supermercado Chino</div>]]></description>
+    <styleUrl>#style56</styleUrl>
+    <Point>
+      <coordinates>-58.010345,-34.921619,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 19 N 1248</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 151  Kiosco</div>]]></description>
+    <styleUrl>#style76</styleUrl>
+    <Point>
+      <coordinates>-57.955147,-34.930981,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 26 N 313</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº  190 <br>Kiosco</div>]]></description>
+    <styleUrl>#style53</styleUrl>
+    <Point>
+      <coordinates>-57.981228,-34.923836,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 119 N 770</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 291<br>Autoservicio</div>]]></description>
+    <styleUrl>#style50</styleUrl>
+    <Point>
+      <coordinates>-57.966034,-34.884029,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 6 N 1012</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 292<br>Kiosco</div>]]></description>
+    <styleUrl>#style74</styleUrl>
+    <Point>
+      <coordinates>-57.946507,-34.915390,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Diag 78 N 885</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 293<br>Kiosco Almacen</div>]]></description>
+    <styleUrl>#style68</styleUrl>
+    <Point>
+      <coordinates>-57.941841,-34.924831,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 47 N 162</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 294<br>Facultad Arquitectura</div>]]></description>
+    <styleUrl>#style36</styleUrl>
+    <Point>
+      <coordinates>-57.942841,-34.905098,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 7 N 1079 </name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 295<br>Kiosco</div>]]></description>
+    <styleUrl>#style69</styleUrl>
+    <Point>
+      <coordinates>-57.946911,-34.916969,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 5 N 1088</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 296<br>Farmacia</div>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>-57.944359,-34.915348,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 61 N 827</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 297<br>Kiosco</div>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>-57.945068,-34.926003,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 48 N 632</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 298<br>Kiosco</div>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>-57.951820,-34.914246,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 10 N 1312</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 299<br>Kiosco</div>]]></description>
+    <styleUrl>#style45</styleUrl>
+    <Point>
+      <coordinates>-57.945198,-34.923363,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Diag. 78 N 294</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 329<br>Maxikiosco</div>]]></description>
+    <styleUrl>#style71</styleUrl>
+    <Point>
+      <coordinates>-57.941402,-34.915733,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 472  S/N Esq. 21 A</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 331<br>Centro Médico </div>]]></description>
+    <styleUrl>#style70</styleUrl>
+    <Point>
+      <coordinates>-58.053688,-34.880192,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 6 N 708</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 332<br>Lotería</div>]]></description>
+    <styleUrl>#style62</styleUrl>
+    <Point>
+      <coordinates>-57.951786,-34.911659,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 9 N 1270</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 354<br>Kiosco</div>]]></description>
+    <styleUrl>#style82</styleUrl>
+    <Point>
+      <coordinates>-57.945263,-34.921513,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 24 N 1829</name>
+    <description><![CDATA[<div dir="ltr">Terminal N 355<br>Chino</div>]]></description>
+    <styleUrl>#style34</styleUrl>
+    <Point>
+      <coordinates>-57.947971,-34.944786,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 9 N 1344</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 356<br>Kiosco</div>]]></description>
+    <styleUrl>#style72</styleUrl>
+    <Point>
+      <coordinates>-57.944099,-34.922367,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 53 N 728</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 357<br>Chino</div>]]></description>
+    <styleUrl>#style61</styleUrl>
+    <Point>
+      <coordinates>-57.950073,-34.918488,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 60 N 414</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 362<br>Almacen</div>]]></description>
+    <styleUrl>#style33</styleUrl>
+    <Point>
+      <coordinates>-57.938225,-34.917660,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 48 N 580</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 364<br>Fac. Derecho</div>]]></description>
+    <styleUrl>#style66</styleUrl>
+    <Point>
+      <coordinates>-57.950726,-34.913322,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 3 N 353</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 367<br>Kiosco</div>]]></description>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>-57.952354,-34.906090,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 72 N 1506</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 405<br>Chino</div>]]></description>
+    <styleUrl>#style28</styleUrl>
+    <Point>
+      <coordinates>-57.927990,-34.954479,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 69 N 1000</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 406<br>Almacén</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-57.939556,-34.935959,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 116 N 2573</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 407<br>Chino</div>]]></description>
+    <styleUrl>#style32</styleUrl>
+    <Point>
+      <coordinates>-57.903412,-34.935028,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 133 N  48</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº  537  <br>Chino</div>]]></description>
+    <styleUrl>#style57</styleUrl>
+    <Point>
+      <coordinates>-57.985111,-34.933388,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 132 N 2321         </name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 609<br>     <br>Chino</div>]]></description>
+    <styleUrl>#style35</styleUrl>
+    <Point>
+      <coordinates>-57.945629,-34.960033,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 472 N 1701 </name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 529    <br>Chino</div>]]></description>
+    <styleUrl>#style46</styleUrl>
+    <Point>
+      <coordinates>-58.054398,-34.880898,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 14 N 1155 1/2</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 358<br>Kiosco<br></div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>-57.952408,-34.924854,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 25 N 122</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 388<br>Chino</div>]]></description>
+    <styleUrl>#style79</styleUrl>
+    <Point>
+      <coordinates>-57.984371,-34.919525,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 46 N 622</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 395<br>Kiosco Locutorio</div>]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>-57.952503,-34.914871,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 45 N 779</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 411<br>Almacén . Minimercado</div>]]></description>
+    <styleUrl>#style41</styleUrl>
+    <Point>
+      <coordinates>-57.958256,-34.915356,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Diagonal 77 N 116</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 610<br>Centro de copiado<br></div>]]></description>
+    <styleUrl>#style73</styleUrl>
+    <Point>
+      <coordinates>-57.946056,-34.909515,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 12 N 2510</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 612<br>Kiosco Almacén</div>]]></description>
+    <styleUrl>#style48</styleUrl>
+    <Point>
+      <coordinates>-57.942978,-34.928322,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 138 N 1437</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 608<br>Almacén Minimercado</div>]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>-57.971214,-34.952297,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 6 N 777</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 611<br>Fac. Ciencias Económicas</div>]]></description>
+    <styleUrl>#style59</styleUrl>
+    <Point>
+      <coordinates>-57.950394,-34.912670,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 48 N 585</name>
+    <description><![CDATA[<div dir="ltr">Terminal Nº 162<br>Facultad de Psicología</div>]]></description>
+    <styleUrl>#style51</styleUrl>
+    <Point>
+      <coordinates>-57.950928,-34.913437,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 501 esq. 14</name>
+    <description><![CDATA[<div dir="ltr">Terminal 669<br>Kiosco</div>]]></description>
+    <styleUrl>#style27</styleUrl>
+    <Point>
+      <coordinates>-58.011269,-34.881180,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 6 esq. 68</name>
+    <description><![CDATA[<div dir="ltr">Terminal 834<br>Kiosco</div>]]></description>
+    <styleUrl>#style58</styleUrl>
+    <Point>
+      <coordinates>-57.929150,-34.928410,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 54 N 630</name>
+    <description><![CDATA[<div dir="ltr">Terminal 661<br>Kiosco</div>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>-57.947601,-34.917328,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 43 N 800</name>
+    <description><![CDATA[<div dir="ltr">Terminal 873<br>Kiosco</div>]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>-57.960564,-34.913651,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Diag. 78 N 680</name>
+    <description><![CDATA[<div dir="ltr">Terminal 1038<br>Fac. Bella Artes</div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-57.941746,-34.922234,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 137 N 1367</name>
+    <description><![CDATA[<div dir="ltr">Terminal 1039<br>Kiosco</div>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>-57.972279,-34.949924,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 66 N </name>
+    <description><![CDATA[<div dir="ltr">Terminal 1040<br>Lotería</div>]]></description>
+    <styleUrl>#style43</styleUrl>
+    <Point>
+      <coordinates>-57.946743,-34.949482,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Av. 13 N 546 </name>
+    <description><![CDATA[<div dir="ltr">Lotería<br><br>Terminal 1047</div>]]></description>
+    <styleUrl>#style37</styleUrl>
+    <Point>
+      <coordinates>-57.962364,-34.915638,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Plaza Paso 41 esq. 44</name>
+    <description><![CDATA[<div dir="ltr">Kiosco <br>Terminal 1042</div>]]></description>
+    <styleUrl>#style80</styleUrl>
+    <Point>
+      <coordinates>-57.961636,-34.916340,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 6 N 1292</name>
+    <description><![CDATA[<div dir="ltr">Polirrubro<br>Terminal 1486</div>]]></description>
+    <styleUrl>#style78</styleUrl>
+    <Point>
+      <coordinates>-57.941635,-34.919472,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 117 71</name>
+    <description><![CDATA[<div dir="ltr">Loteria<br>Terminal 1488</div>]]></description>
+    <styleUrl>#style39</styleUrl>
+    <Point>
+      <coordinates>-57.960522,-34.891563,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 58 N 835</name>
+    <description><![CDATA[<div dir="ltr">Bapro Pagos<br>Terminal 1489</div>]]></description>
+    <styleUrl>#style42</styleUrl>
+    <Point>
+      <coordinates>-57.948032,-34.923695,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 37 N 183</name>
+    <description><![CDATA[<div dir="ltr">Terminal 1041<br>Hospital Rossi</div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-57.953484,-34.896034,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Av. 1 N 1588</name>
+    <description><![CDATA[<div dir="ltr">Terminal 200<br>Celulares</div>]]></description>
+    <styleUrl>#style67</styleUrl>
+    <Point>
+      <coordinates>-57.929836,-34.918980,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Paseo del Bosque S/N</name>
+    <description><![CDATA[<div dir="ltr">Terminal  333<br>Fac. de Astronomía</div>]]></description>
+    <styleUrl>#style55</styleUrl>
+    <Point>
+      <coordinates>-57.934086,-34.909653,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Av. 1 N  1381</name>
+    <description><![CDATA[<div dir="ltr">Terminal 410<br>Kiosco</div>]]></description>
+    <styleUrl>#style65</styleUrl>
+    <Point>
+      <coordinates>-57.934513,-34.915955,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Camino Gral. Belgrano 340</name>
+    <description><![CDATA[<div dir="ltr">Terminal 1492<br>Centro Médico<br><br></div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>-57.976295,-34.899792,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 137 1531</name>
+    <description><![CDATA[<div dir="ltr">Terminal 1579<br>Lotería<br></div>]]></description>
+    <styleUrl>#style30</styleUrl>
+    <Point>
+      <coordinates>-57.968800,-34.952518,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 2 220</name>
+    <description><![CDATA[<div dir="ltr">Terminal 1584<br>Autoservicio</div>]]></description>
+    <styleUrl>#style31</styleUrl>
+    <Point>
+      <coordinates>-57.958801,-34.899548,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Calle 2 915</name>
+    <description><![CDATA[<div dir="ltr">Terminal 1585<br>Autoservicio<br><br></div>]]></description>
+    <styleUrl>#style52</styleUrl>
+    <Point>
+      <coordinates>-57.944393,-34.910324,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>7 Bis 4768</name>
+    <description><![CDATA[Manuel B. Gonnet, Buenos Aires, Argentina<br>]]></description>
+    <styleUrl>#style83</styleUrl>
+    <Point>
+      <coordinates>-58.021126,-34.868748,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
